@@ -1,0 +1,17 @@
+{
+  "name": "audition-jv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jorge Vasquez Pluralsight Audition",
+  "author": "Jorge Vasquez",
+  "scripts": {
+    "test": "mocha --opts test/mocha.opts"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.609.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0"
+  }
+}
